@@ -1,2 +1,2 @@
 # appTodo
-Aplicação java web para cadastrar usuarios e tarefas assoados aos usuarios 
+Aplicação teste JavaWeb para cadastrar usuários e tarefas associadas aos usuários
